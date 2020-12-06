@@ -1,1 +1,5 @@
-let person = { name: "John", age: 20, city: "New York" };
+let person = { 
+  "name": "John", 
+  "age": 20,
+  "city": "New York" 
+};
