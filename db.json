@@ -1,11 +1,13 @@
 {
   "posts": [
     {
-      "id": "urk18cs137",
-      "title": "Hi Anoop"
+      "one": "IEEE membership drive is live",
+      "two": "Announcement 2",
+      "three": "Event 3"
     }
   ],
   "profile": {
-    "name": "anp"
+    "name": "anoop",
+    "contact": "anoopv@karunya.edu.in"
   }
 }
